@@ -1,0 +1,5 @@
+logzero
+loguru
+pylogrus
+logging-spinner
+python-json-logger
